@@ -59,3 +59,10 @@ C++ 기반 GUI Application 개발 시 널리 쓰이는 프레임워크
 
 
 **Python Binding** : 다른 언어로 제작된 Library를 Python으로 호출할 수 있는 연결 모듈을 뜻한다.
+
+*PySide & PyQt* 두 가지가 있다.
+
+### Qt Creator(QC)
+Qt의 대표적인 IDE 이고, GPL이다.
+Editor + Qt Quick Designer + Qt Designer(UI Designer 이고 LGPL, Designerfh Widget을 꾸며, 위젯파일.ui를 만드는 용도) 모두 포함.
+
